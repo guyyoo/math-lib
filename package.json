@@ -1,0 +1,23 @@
+{
+  "name": "@guyyoo/math-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyyoo/math-lib.git"
+  },
+  "author": "guyyoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guyyoo/math-lib/issues"
+  },
+  "homepage": "https://github.com/guyyoo/math-lib#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
